@@ -1,0 +1,104 @@
+[
+    {
+        "id": 1,
+        "name": "Rendang Sapi",
+        "description": "Daging sapi dimasak perlahan dengan bumbu rempah khas Minang.",
+        "price": 25000,
+        "category": "lauk",
+        "popularity": 98,
+        "image": "https://images.unsplash.com/photo-1549203438-a7696aed3ec8?auto=format&fit=crop&q=80&w=600",
+        "tags": [
+            "best_seller",
+            "spicy"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Ayam Pop",
+        "description": "Ayam goreng pucat direbus air kelapa dan digoreng sebentar.",
+        "price": 22000,
+        "category": "lauk",
+        "popularity": 90,
+        "image": "https://images.unsplash.com/photo-1626804475297-411eb8a2e1e2?auto=format&fit=crop&q=80&w=600",
+        "tags": [
+            "kids_friendly"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Gulai Tunjang",
+        "description": "Gulai urat kaki sapi dengan kuah santan kental.",
+        "price": 28000,
+        "category": "lauk",
+        "popularity": 85,
+        "image": "https://images.unsplash.com/photo-1596788065050-7dc64ec0e24f?auto=format&fit=crop&q=80&w=600",
+        "tags": [
+            "savory",
+            "fatty"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Dendeng Balado",
+        "description": "Irisan daging sapi tipis kering dengan sambal merah.",
+        "price": 24000,
+        "category": "lauk",
+        "popularity": 92,
+        "image": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?auto=format&fit=crop&q=80&w=600",
+        "tags": [
+            "spicy",
+            "crispy"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Telur Balado",
+        "description": "Telur rebus digoreng dengan sambal merah.",
+        "price": 8000,
+        "category": "lauk",
+        "popularity": 70,
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4cdd0f169?auto=format&fit=crop&q=80&w=600",
+        "tags": [
+            "budget",
+            "breakfast"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Sayur Nangka",
+        "description": "Gulai nangka muda khas Padang.",
+        "price": 6000,
+        "category": "sayur",
+        "popularity": 95,
+        "image": "https://images.unsplash.com/photo-1563227812-0ea4cdd0f169?auto=format&fit=crop&q=80&w=600",
+        "tags": [
+            "side",
+            "essential"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Es Teh Manis",
+        "description": "Segar dan manis.",
+        "price": 5000,
+        "category": "minuman",
+        "popularity": 100,
+        "image": "https://images.unsplash.com/photo-1556679343-c7306c1976bc?auto=format&fit=crop&q=80&w=600",
+        "tags": [
+            "drink"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Perkedel Kentang",
+        "description": "Adonan kentang digoreng lembut.",
+        "price": 4000,
+        "category": "pelengkap",
+        "popularity": 80,
+        "image": "https://images.unsplash.com/photo-1604382354936-07c5d9983bd3?auto=format&fit=crop&q=80&w=600",
+        "tags": [
+            "side",
+            "kids_friendly"
+        ]
+    }
+]
