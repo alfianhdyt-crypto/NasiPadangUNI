@@ -1,4 +1,4 @@
-# Nasi Padang AI Antigravity
+# Nasi Padang UNI
 
 Aplikasi pemesanan Nasi Padang modern dengan integrasi AI untuk rekomendasi menu dan asisten virtual ("Uni").
 
@@ -65,4 +65,3 @@ Aplikasi pemesanan Nasi Padang modern dengan integrasi AI untuk rekomendasi menu
     - Pastikan path URL sesuai.
 
 ---
-*Dibuat dengan ❤️ oleh Tim Antigravity*
